@@ -1,4 +1,4 @@
-require("./add")
-require("./subtract")
-require("./divide")
-require("./multiply")
+require("./add.test")
+require("./subtract.test")
+require("./divide.test")
+require("./multiply.test")
